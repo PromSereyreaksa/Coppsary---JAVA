@@ -1,2 +1,2 @@
 # Coppsary---JAVA
-Udemy Course Practicies (Specific to Java only)
+Udemy Course Practices (Specific to Java only)
